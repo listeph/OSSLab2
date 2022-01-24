@@ -1,0 +1,4 @@
+- Name: Stephanie Li
+- Photograph: ![](/photograph.JPG)
+- Graduating Year: 2022
+- Project sub-area: web development, specifically contributing to better CSV uploads for Submitty course management
